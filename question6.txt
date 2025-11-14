@@ -1,0 +1,8 @@
+int 1value = 10;
+float avg-rate = 12.5;
+char Class = 'A';
+
+
+int value1 = 10;
+float avg_rate = 12.5;
+char class = 'A';
