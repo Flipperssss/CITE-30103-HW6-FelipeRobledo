@@ -1,0 +1,3 @@
+Removing #include <stdio.h> breaks the linking stage.
+The linker cannot find function.
+AN error will show up like undefined.
