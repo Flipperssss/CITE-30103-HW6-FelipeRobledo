@@ -1,0 +1,9 @@
+Expression a + b << 1 shifts first because the shift operator has higher precedence.
+So the program does b << 1 then adds a.
+The developer expected (a + b) << 1.
+
+Fix option 1
+Use parentheses.
+
+Fix option 2
+ res = (a + b) * 2
