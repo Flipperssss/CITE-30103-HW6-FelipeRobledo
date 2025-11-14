@@ -1,0 +1,19 @@
+Preprocessing
+Expands include
+Possible Error: wrong header name
+
+Compilation
+The compiler checks syntax. Builds Assembly.
+Possible error: Missed Semicolon
+
+Assembly
+Turns assembly code to objective code.
+Possible error: unsupported instructions.
+
+Linking
+joins object files and libraries
+Possible error:undefine refrence to function
+
+Loading
+Executable in memory and starts it
+Possible error: missing files
