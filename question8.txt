@@ -1,0 +1,2 @@
+The global variable is outside main and is visible to all functions.
+The local variable lives inside main and is visible only in that block.
